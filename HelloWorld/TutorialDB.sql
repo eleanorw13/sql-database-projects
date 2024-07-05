@@ -1,0 +1,4 @@
+CREATE TABLE [dbo].[TutorialDB]
+(
+  [Id] INT NOT NULL PRIMARY KEY
+)
